@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">chat stores</string>
+    <string name="logo" />
+    <string name="todo" />
+    <string name="welcome">Welcome !</string>
+    <string name="sing_in_to_continue">Sing in to continue</string>
+    <string name="gmail">Gmail</string>
+    <string name="password">password</string>
+    <string name="s">←</string>
+    <string name="todo1">TODO</string>
+</resources>
